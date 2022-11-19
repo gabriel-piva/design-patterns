@@ -5,7 +5,7 @@ Todos os projetos tem como objetivo aprender sobre o pattern utilizado e pratica
 
 ---
 
-> Lista dos Patterns já implementados: 
+> Lista dos patterns já implementados: 
 
 - **Creational** 
     - Singleton
