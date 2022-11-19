@@ -11,6 +11,7 @@ Lista dos patterns já implementados:
     - Singleton
 
 - **Structural** 
+    - Adapter
 
 - **Behavioral** 
 
