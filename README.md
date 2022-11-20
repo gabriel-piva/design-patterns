@@ -12,6 +12,7 @@ Lista dos patterns já implementados:
 
 - **Structural** 
     - Adapter
+    - Facade
 
 - **Behavioral** 
     - Strategy
