@@ -14,5 +14,6 @@ Lista dos patterns já implementados:
     - Adapter
 
 - **Behavioral** 
+    - Strategy
 
 ---
