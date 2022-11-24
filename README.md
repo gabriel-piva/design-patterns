@@ -16,5 +16,6 @@ Lista dos patterns já implementados:
 
 - **Behavioral** 
     - Strategy
+    - Template Method
 
 ---
