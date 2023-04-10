@@ -1,4 +1,4 @@
-package power.ring;
+package abstract_factory.ring;
 
 public class HumanRing implements Ring {
     @Override

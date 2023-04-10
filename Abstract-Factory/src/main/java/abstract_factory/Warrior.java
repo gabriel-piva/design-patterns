@@ -1,14 +1,16 @@
-package power;
+package abstract_factory;
 
-import power.factory.PowerFactory;
-import power.ring.Ring;
-import power.weapon.Weapon;
+import abstract_factory.factory.Factory;
+import abstract_factory.ring.Ring;
+import abstract_factory.weapon.Weapon;
 
-public class Power {
+// The warrior can be a human, elf, or dwarf
+// Each warrior has a ring and a weapon.
+public class Warrior {
     private Ring ring;
     private Weapon weapon;
 
-    public Power(PowerFactory factory) {
+    public Warrior(Factory factory) {
         setRing(factory.createRing());
         setWeapon(factory.createWeapon());
     }
@@ -27,7 +29,7 @@ public class Power {
         this.weapon = weapon;
     }
 
-    public void forgePowers() {
+    public void forge() {
         getRing().forge();
         getWeapon().forge();
     }

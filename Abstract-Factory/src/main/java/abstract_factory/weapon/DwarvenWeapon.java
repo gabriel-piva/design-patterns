@@ -1,4 +1,4 @@
-package power.weapon;
+package abstract_factory.weapon;
 
 public class DwarvenWeapon implements Weapon {
     @Override
