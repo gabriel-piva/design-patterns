@@ -8,7 +8,7 @@ Todos os projetos tem como objetivo aprender sobre o pattern utilizado e pratica
 Lista dos patterns já implementados: 
 
 - **Creational** 
-    - 
+    - [Singleton](https://github.com/gpiiva/design-patterns/tree/main/singleton)
 
 - **Structural** 
     -
