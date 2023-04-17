@@ -9,6 +9,7 @@ Lista dos patterns já implementados:
 
 - **Creational** 
     - [Singleton](https://github.com/gpiiva/design-patterns/tree/main/singleton)
+    - [Abstract Factory]()
 
 - **Structural** 
     -
