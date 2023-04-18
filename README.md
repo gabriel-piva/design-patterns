@@ -1,6 +1,6 @@
 ## Design Patterns
 
-Repositório com alguns dos principais Design Patterns implementados em Java. 
+Alguns dos principais Design Patterns implementados em Java, porém usando exemplos variados de filmes, séries, livros, etc. 
 Todos os projetos tem como objetivo aprender sobre o pattern utilizado e praticar a programação em Java.
 
 ---
@@ -12,7 +12,7 @@ Lista dos patterns já implementados:
     - [Abstract Factory](https://github.com/gabriel-piva/design-patterns/tree/main/abstract-factory)
 
 - **Structural** 
-    -
+    - ...
 
 - **Behavioral** 
     - [Strategy](https://github.com/gabriel-piva/design-patterns/tree/main/strategy)
