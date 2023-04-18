@@ -8,12 +8,12 @@ Todos os projetos tem como objetivo aprender sobre o pattern utilizado e pratica
 Lista dos patterns já implementados: 
 
 - **Creational** 
-    - [Singleton](https://github.com/gpiiva/design-patterns/tree/main/singleton)
-    - [Abstract Factory](https://github.com/gpiiva/design-patterns/tree/main/abstract-factory)
+    - [Singleton](https://github.com/gabriel-piva/design-patterns/tree/main/singleton)
+    - [Abstract Factory](https://github.com/gabriel-piva/design-patterns/tree/main/abstract-factory)
 
 - **Structural** 
     -
 
 - **Behavioral** 
-    - 
+    - [Strategy](https://github.com/gabriel-piva/design-patterns/tree/main/strategy)
 ---
