@@ -30,4 +30,4 @@ Em seguida, ele cria outra instância chamada anotherOneRing usando o mesmo mét
 
 Como a classe OneRing é um Singleton, anotherOneRing é uma referência para a mesma instância que oneRing. Portanto, ao alterar o valor da mensagem através de anotherOneRing, na verdade é alterada a mensagem na mesma instância única de OneRing. 
 
-Por essa razão, ao imprimir as mensagens, elas tem o mesmo resultado. Além disso, como as duas variáveis se referem à mesma instância, ao compará-las com o operador ==, recebemos true.
+Por essa razão, ao imprimir as mensagens, elas tem o mesmo resultado. Além disso, como as duas variáveis se referem à mesma instância, ao compará-las com o operador ==, mostrando true.

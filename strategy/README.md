@@ -27,3 +27,8 @@ aang.attack(); // Aang uses earthbending
 aang.setBending(new FireBending());
 aang.attack(); // Aang uses firebending
 ```
+
+O código acima cria uma instância da classe Character chamada "aang", com a habilidade de dobra de ar (AirBending).
+Após isso, o método _setBending()_ é utilizado para mudar a habilidade de dobra de aang para WaterBending, EarthBending e FireBending.
+
+Dessa forma, o padrão Strategy possibilita trocar a habilidade de dobra de elementos do personagem Aang em tempo de execução, permitindo que ele utilize diferentes habilidades de dobra de elementos, como água, terra e fogo, sem a necessidade de alterar o seu código original.
