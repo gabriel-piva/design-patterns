@@ -14,6 +14,8 @@ As classes _FireBending_, _WaterBending_, _EarthBending_ e _AirBending_ são imp
 
 A classe ```Character``` é o contexto que utiliza a estratégia ElementBending. Ele tem um atributo _bending_ que pode ser definido como qualquer implementação de ElementBending. O método _attack()_ chama o método bend() da instância de ElementBending.
 
+### Demonstração
+
 ```java
 Character aang = new Character("Aang", new AirBending());
 aang.attack(); // Aang uses airbending
