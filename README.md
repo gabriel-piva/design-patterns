@@ -12,7 +12,7 @@ Lista dos patterns já implementados:
     - [Abstract Factory](https://github.com/gabriel-piva/design-patterns/tree/main/abstract-factory)
 
 - **Structural** 
-    - ...
+    - [Adapter](https://github.com/gabriel-piva/design-patterns/tree/main/adapter)
 
 - **Behavioral** 
     - [Strategy](https://github.com/gabriel-piva/design-patterns/tree/main/strategy)
