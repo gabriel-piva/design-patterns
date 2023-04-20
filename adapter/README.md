@@ -30,7 +30,7 @@ obiWan.setWeapon(new Lightsaber());
 obiWan.combat(); // Obi-Wan attacks with the lightsaber
 
 obiWan.setWeapon(new DoubleLightsaber());
-obiWan.combat(); // Obi-Wan attacks with the double lightsaber
+obiWan.combat(); // Obi-Wan attacks with the double-bladed lightsaber
 
 obiWan.setWeapon(new BlasterAdapter());
 obiWan.combat(); // Obi-Wan shoots with the blaster
