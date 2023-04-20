@@ -13,6 +13,7 @@ Lista dos patterns já implementados:
 
 - **Structural** 
     - [Adapter](https://github.com/gabriel-piva/design-patterns/tree/main/adapter)
+    - [Facade](https://github.com/gabriel-piva/design-patterns/tree/main/facade)
 
 - **Behavioral** 
     - [Strategy](https://github.com/gabriel-piva/design-patterns/tree/main/strategy)
