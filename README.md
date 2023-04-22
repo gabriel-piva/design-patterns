@@ -17,4 +17,5 @@ Lista dos patterns já implementados:
 
 - **Behavioral** 
     - [Strategy](https://github.com/gabriel-piva/design-patterns/tree/main/strategy)
+    - [Template Method](https://github.com/gabriel-piva/design-patterns/tree/main/template-method)
 ---
