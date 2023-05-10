@@ -1,7 +1,7 @@
 ## Design Patterns ☕
 
-Alguns dos principais **Design Patterns** implementados usando exemplos variados, como filmes, séries, livros, etc. 
-O objetivo principal de todos os projetos é aprender sobre o pattern utilizado e praticar a programação em Java.
+Projeto com exemplos de implementação de alguns dos principais Design Patterns usando a linguagem Java. Os exemplos são variados, usando temas como filmes, séries, livros, entre outros. 
+Alguns dos exemplos incluem "Game of Thrones", "O Senhor dos Anéis", "Avatar: A Lenda de Aang" entre outros.
 
 ---
 
@@ -21,12 +21,16 @@ Lista dos patterns já implementados:
 ---
 
 ### Tecnologias
-
 <div style="display: flex; gap: 5px;">
-    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Maven-913C76?style=for-the-badge&logo=apache&logoColor=white" alt="Maven">
+    <img src="https://img.shields.io/badge/Java-E84135?style=for-the-badge&logo=openjdk&logoColor=E84135&labelColor=070707" alt="Java">
+    <img src="https://img.shields.io/badge/Maven-913C76?style=for-the-badge&logo=apache&logoColor=913C76&labelColor=070707" alt="Maven">
 </div>
 
 ### Execução
+Todos os exemplos são feitos em Java ([JDK-19](https://jdk.java.net/19/)) usando o [Maven](https://maven.apache.org/), então para executar basta clonar o repositório, abrir o diretório do pattern desejado em uma IDE que suporte o Maven e, tendo JDK-19 ou superior definido, executar o projeto pela classe `Test.java`, que está presente em todos os projetos.
 
-Todos os patterns são feitos com Java ([JDK-19](https://jdk.java.net/19/)) usando o [Maven](https://maven.apache.org/), então para executar basta clonar o repositório, abrir em uma IDE que suporte o Maven e, tendo JDK-19 ou superior definido, executar o projeto pela classe `Test`, que está presente em todos os projetos.
+### Objetivo
+O objetivo principal de todos os exemplos criados é aprender sobre o design pattern utilizado, além de praticar a programação em Java no geral.
+
+### Referências
+A principal inspiração para a criação dos exemplos é o site [Refactoring Guru](https://refactoring.guru/design-patterns). Porém, para cada um dos patterns implementados, foram consultadas várias fontes para obter uma compreensão mais completa sobre o mesmo e para a criação do exemplo em si.
