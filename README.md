@@ -28,6 +28,9 @@ Lista dos patterns já implementados:
 
 ### Execução
 Todos os exemplos são feitos em Java ([JDK-19](https://jdk.java.net/19/)) usando o [Maven](https://maven.apache.org/), então para executar basta clonar o repositório, abrir o diretório do pattern desejado em uma IDE que suporte o Maven e, tendo JDK-19 ou superior definido, executar o projeto pela classe `Test.java`, que está presente em todos os projetos.
+```bash
+git clone https://github.com/gabriel-piva/design-patterns.git
+```
 
 ### Objetivo
 O objetivo principal de todos os exemplos criados é aprender sobre o design pattern utilizado, além de praticar a programação em Java no geral.
