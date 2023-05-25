@@ -1,9 +1,11 @@
 ## Design Patterns ☕
 
-Projeto com exemplos de implementação de alguns dos principais Design Patterns usando a linguagem Java. Os exemplos são variados, usando temas como filmes, séries, livros, entre outros. 
-Alguns dos exemplos incluem "Game of Thrones", "O Senhor dos Anéis", "Avatar: A Lenda de Aang" entre outros.
+Projeto com exemplos de implementação de alguns dos principais **Design Patterns** usando a linguagem Java. Os exemplos são variados, usando temas como filmes, séries, livros, etc. 
+Alguns dos exemplos incluem "Game of Thrones", "O Senhor dos Anéis", "Avatar: A Lenda de Aang", entre outros.
 
-O objetivo principal de todos os exemplos criados é aprender sobre o design pattern utilizado, além de praticar a programação em Java.
+Em cada implementação existe uma explicação sobre o exemplo que foi feito e seu diagrama de classes.
+
+O objetivo principal de todos os exemplos é aprender sobre o design pattern utilizado, além de praticar a programação em Java.
 
 ---
 
