@@ -2,7 +2,7 @@ package template_method;
 
 import template_method.spell.*;
 
-public class Test {
+public class Demo {
     public static void main(String[] args) {
         System.out.println("## Template Method:\n");
 

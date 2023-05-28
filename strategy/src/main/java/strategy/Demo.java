@@ -2,7 +2,7 @@ package strategy;
 
 import strategy.bending.*;
 
-public class Test {
+public class Demo {
     public static void main(String[] args) {
         System.out.println("## Strategy:\n");
 

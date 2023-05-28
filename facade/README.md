@@ -16,7 +16,7 @@ As subclasses de personagens representam um subsistema complexo que possui funci
 
 A classe `AdventureFacade` é a fachada que encapsula esse subsistema e provê uma interface simplificada para sua utilização. Ela possui uma lista de personagens e define o método _addHobbit()_, por exemplo, que cria e adiciona uma instância de Hobbit para a lista e o método _useAgility()_, que percorre essa lista e faz com que cada Hobbit use sua função própria useAgility(), que é específica de Hobbit. O mesmo para as classes Wizard e Dwarf é feito na fachada. 
 
-Assim, na classe Test, é criada apenas uma instância da classe AdventureFacade, e é através dessa instância que são utilizados os métodos de adicionar personagens à aventura e utilizar suas habilidades específicas, em vez de precisar lidar com cada classe de personagem individualmente.
+Assim, na classe Demo, é criada apenas uma instância da classe AdventureFacade, e é através dessa instância que são utilizados os métodos de adicionar personagens à aventura e utilizar suas habilidades específicas, em vez de precisar lidar com cada classe de personagem individualmente.
 
 ### Demonstração
 
