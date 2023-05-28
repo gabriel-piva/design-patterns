@@ -2,7 +2,7 @@ package abstract_factory;
 
 import abstract_factory.factory.*;
 
-public class Test {
+public class Demo {
     public static void main(String[] args) {
         System.out.println("## Abstract Factory:\n");
 
