@@ -39,7 +39,7 @@ Para executar qualquer um deles, basta clonar o respositório com o link abaixo:
 git clone https://github.com/gabriel-piva/design-patterns.git
 ```
 
-Em seguida, abra o diretório do pattern desejado em uma IDE que suporte o Maven e, tendo JDK-19 ou superior definido, execute o projeto pela classe `Test.java`, que está presente em todos os exemplos.
+Em seguida, abra o diretório do pattern desejado, carregue o projeto usando o Maven e, tendo JDK-19 ou superior, execute o projeto pela classe `Demo.java`, que está presente em todos os exemplos.
 
 ### Referências
 A principal inspiração para a criação dos exemplos é o site [Refactoring Guru](https://refactoring.guru/design-patterns). Porém, para cada um dos patterns implementados, foram consultadas várias fontes para obter uma compreensão mais completa sobre o mesmo e para a criação do exemplo em si.
