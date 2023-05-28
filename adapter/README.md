@@ -40,3 +40,5 @@ O código acima cria uma instância da classe Jedi chamada "Obi-Wan", com a habi
 Após isso, o método setWeapon() é utilizado para mudar a arma de Obi-Wan para DoubleLightsaber e para Blaster (através do adaptador BlasterAdapter).
 
 Dessa forma, o padrão Adapter possibilita que o objeto Jedi utilize este novo tipo de arma, sem a necessidade de alterar seu código original. O mesmo aconteceria para novos tipos de arma que não implementem Weapon, bastando criar um adaptador, e assim permitindo uma maior flexibilidade e reutilização de código.
+
+**Observação:** Para executar este exemplo, também é necessário adicionar `BlasterLib.jar` como uma biblioteca no projeto. 
